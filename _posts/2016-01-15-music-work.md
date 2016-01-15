@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'live show, and editorial for musicians'
-datePublished: '2016-01-15T19:25:58.762Z'
+datePublished: '2016-01-15T19:25:58.887Z'
 dateModified: '2016-01-15T19:25:57.973Z'
 title: Music
 author: []
