@@ -1,29 +1,31 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'live show, and editorial for musicians'
-datePublished: '2016-01-15T19:11:39.129Z'
-dateModified: '2016-01-15T19:11:15.242Z'
-title: ''
+datePublished: '2016-01-15T19:19:44.348Z'
+dateModified: '2016-01-15T19:19:35.021Z'
+title: Music
 author: []
+sourcePath: _posts/2016-01-15-music-work.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-15-music-work.md
-published: true
 url: music-work/index.html
 _type: Article
 
 ---
-welcome to kristin chalmers creative - editorial and lifestyle photography with a focus on music, food, and youth culture
-![Questlove for The Roots at The House of Blues](https://s3-us-west-2.amazonaws.com/the-grid-img/p/05e9f072b8f1f7c01a57c8f6d59b386a376da8c4.jpg)
+## The Roots
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4093538741ede6fc3530af8bfdc9d75f0ae4dbb3.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/652398e980777da5ff4886f53347f049db32a222.jpg)
-![rebrand of the musician Jacob Whitesides](https://s3-us-west-2.amazonaws.com/the-grid-img/p/68e706831fa27c57707450577214bdda5e6f82a4.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d1a8ffa-c090-4b94-8d25-a75d67d5669b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/efac7c25-e6d6-4fee-b5ba-fcdf5feee872.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/34e36827-deb0-4ab9-aeea-966bfd4d9d85.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8aed4801-1a88-48e2-8bcd-04329972999f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/175df616-bab7-4abd-a33f-e0288023cadb.jpg)
