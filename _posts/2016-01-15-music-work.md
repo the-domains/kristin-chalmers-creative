@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'live show, and editorial for musicians'
-datePublished: '2016-01-15T19:25:58.236Z'
-dateModified: '2016-01-15T19:25:56.983Z'
+datePublished: '2016-01-15T19:25:58.676Z'
+dateModified: '2016-01-15T19:25:57.969Z'
 title: Music
 author: []
 sourcePath: _posts/2016-01-15-music-work.md
